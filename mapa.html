@@ -65,7 +65,10 @@
       <button data-id="0" class="layer btn btn-info">Sanidad</button>
       <button data-id="2" class="layer btn btn-info">Deportivos</button>
       <button data-id="3" class="layer btn btn-info">Museos</button>
-      <button class="removeAllFilter btn btn-info">Limpiar Mapa</button>
+      <button data-id="4" class="layer btn btn-info">Espacios Culturales</button>
+      <button data-id="5" class="layer btn btn-info">Universidades</button>
+      <button data-id="6" class="layer btn btn-info">Centros Educativos</button>
+      <button class="removeAllFilter btn btn-warning float-right">Limpiar Filtros</button>
       </div>
 
     </div> 
@@ -91,6 +94,10 @@
     var ayuntamientosLayer = newLayer('ayuntamientos');
     var instalacionesdeportivasLayer = newLayer('instalaciones-deportivas');
     var museosLayer = newLayer('museos');
+    var espaciosculturalesLayer = newLayer('espacios-culturales');
+    var universidadesLayer = newLayer('universidades');
+    var centroseducativosLayer = newLayer('centros-educativos');
+
 
 
     var baseLayer = new ol.layer.Tile({
@@ -108,7 +115,7 @@
       return style;
       }
 
-    var extraLayers = [centrossaludLayer,ayuntamientosLayer,instalacionesdeportivasLayer,museosLayer];
+    var extraLayers = [centrossaludLayer,ayuntamientosLayer,instalacionesdeportivasLayer,museosLayer,espaciosculturalesLayer,universidadesLayer,centroseducativosLayer];
     var layers = [baseLayer];
 
     var map = new ol.Map({
@@ -139,6 +146,9 @@
       });
 
       $('.removeAllFilter').on("click", function() {
+        $('.active').each(function(){
+          $(this).removeClass('active');
+        });
         $(extraLayers).each(function(i,elem){
           map.removeLayer(elem);
         });
