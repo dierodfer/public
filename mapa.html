@@ -1,0 +1,154 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/css/ol.css" type="text/css">
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/js/bootstrap.min.js" integrity="sha384-ChfqqxuZUCnJSK3+MXmPNIyE6ZbWh2IMqE241rYiqJxyMiZ6OW/JmZQ5stwEULTy" crossorigin="anonymous"></script>
+    <link href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
+    <script src="https://cdn.rawgit.com/openlayers/openlayers.github.io/master/en/v5.3.0/build/ol.js"></script>
+
+    <style type="text/css">
+      
+    .map{
+      height: 400px;
+    }
+
+    @media only screen and (max-width: 769px) {
+       .map{
+          height: 300px;
+       }
+    }
+
+    .fullscreen:-moz-full-screen {
+    height: 100% !important;
+    }
+    .fullscreen:-webkit-full-screen {
+    height: 100% !important;
+    }
+    .fullscreen:-ms-fullscreen {
+    height: 100% !important;
+    }
+
+    .fullscreen:fullscreen {
+    height: 100% !important;
+    }
+
+    .fullscreen {
+    margin-bottom: 10px;
+    width: 100% !important;
+    }
+
+    .loading{
+      position: absolute;
+      margin: auto;
+      top: 35%;
+      left: 0;
+      right: 0;
+      z-index: 99999;
+    }
+    </style>
+
+    <title>Mapa de ejemplo</title>
+  </head>
+  <body>
+    <h2>Mapa realizado con OpenLayer5</h2>
+
+    <div class="row">
+      <div class="offset-md-2 offset-lg-1 col-md-8 col-lg-10">
+        <img class="loading d-none" src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMTE0cHgiICBoZWlnaHQ9IjExNHB4IiAgeG1sbnM9Imh0dHA6Ly93d3cudzMu%0D%0Ab3JnLzIwMDAvc3ZnIiB2aWV3Qm94PSIwIDAgMTAwIDEwMCIgcHJlc2VydmVBc3BlY3RSYXRpbz0i%0D%0AeE1pZFlNaWQiIGNsYXNzPSJsZHMtZWxsaXBzaXMiIHN0eWxlPSJiYWNrZ3JvdW5kOiBub25lOyI+%0D%0APCEtLWNpcmNsZShjeD0iMTYiLGN5PSI1MCIscj0iMTAiKS0tPjxjaXJjbGUgY3g9Ijg0IiBjeT0i%0D%0ANTAiIHI9IjAiIGZpbGw9IiM3ZThlOGUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIHZhbHVl%0D%0Acz0iMTA7MDswOzA7MCIga2V5VGltZXM9IjA7MC4yNTswLjU7MC43NTsxIiBrZXlTcGxpbmVzPSIw%0D%0AIDAuNSAwLjUgMTswIDAuNSAwLjUgMTswIDAuNSAwLjUgMTswIDAuNSAwLjUgMSIgY2FsY01vZGU9%0D%0AInNwbGluZSIgZHVyPSIxLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjBzIj48%0D%0AL2FuaW1hdGU+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iODQ7ODQ7ODQ7ODQ7%0D%0AODQiIGtleVRpbWVzPSIwOzAuMjU7MC41OzAuNzU7MSIga2V5U3BsaW5lcz0iMCAwLjUgMC41IDE7%0D%0AMCAwLjUgMC41IDE7MCAwLjUgMC41IDE7MCAwLjUgMC41IDEiIGNhbGNNb2RlPSJzcGxpbmUiIGR1%0D%0Acj0iMS42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyI+PC9hbmltYXRlPjwv%0D%0AY2lyY2xlPjxjaXJjbGUgY3g9Ijg0IiBjeT0iNTAiIHI9IjEuOTAzODYiIGZpbGw9IiNhNWIyYWUi%0D%0APjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIHZhbHVlcz0iMDsxMDsxMDsxMDswIiBrZXlUaW1l%0D%0Acz0iMDswLjI1OzAuNTswLjc1OzEiIGtleVNwbGluZXM9IjAgMC41IDAuNSAxOzAgMC41IDAuNSAx%0D%0AOzAgMC41IDAuNSAxOzAgMC41IDAuNSAxIiBjYWxjTW9kZT0ic3BsaW5lIiBkdXI9IjEuNnMiIHJl%0D%0AcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iLTAuOHMiPjwvYW5pbWF0ZT48YW5pbWF0ZSBh%0D%0AdHRyaWJ1dGVOYW1lPSJjeCIgdmFsdWVzPSIxNjsxNjs1MDs4NDs4NCIga2V5VGltZXM9IjA7MC4y%0D%0ANTswLjU7MC43NTsxIiBrZXlTcGxpbmVzPSIwIDAuNSAwLjUgMTswIDAuNSAwLjUgMTswIDAuNSAw%0D%0ALjUgMTswIDAuNSAwLjUgMSIgY2FsY01vZGU9InNwbGluZSIgZHVyPSIxLjZzIiByZXBlYXRDb3Vu%0D%0AdD0iaW5kZWZpbml0ZSIgYmVnaW49Ii0wLjhzIj48L2FuaW1hdGU+PC9jaXJjbGU+PGNpcmNsZSBj%0D%0AeD0iNzcuNTI2OSIgY3k9IjUwIiByPSIxMCIgZmlsbD0iI2JmYzVjNiI+PGFuaW1hdGUgYXR0cmli%0D%0AdXRlTmFtZT0iciIgdmFsdWVzPSIwOzEwOzEwOzEwOzAiIGtleVRpbWVzPSIwOzAuMjU7MC41OzAu%0D%0ANzU7MSIga2V5U3BsaW5lcz0iMCAwLjUgMC41IDE7MCAwLjUgMC41IDE7MCAwLjUgMC41IDE7MCAw%0D%0ALjUgMC41IDEiIGNhbGNNb2RlPSJzcGxpbmUiIGR1cj0iMS42cyIgcmVwZWF0Q291bnQ9ImluZGVm%0D%0AaW5pdGUiIGJlZ2luPSItMC40cyI+PC9hbmltYXRlPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9ImN4%0D%0AIiB2YWx1ZXM9IjE2OzE2OzUwOzg0Ozg0IiBrZXlUaW1lcz0iMDswLjI1OzAuNTswLjc1OzEiIGtl%0D%0AeVNwbGluZXM9IjAgMC41IDAuNSAxOzAgMC41IDAuNSAxOzAgMC41IDAuNSAxOzAgMC41IDAuNSAx%0D%0AIiBjYWxjTW9kZT0ic3BsaW5lIiBkdXI9IjEuNnMiIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBi%0D%0AZWdpbj0iLTAuNHMiPjwvYW5pbWF0ZT48L2NpcmNsZT48Y2lyY2xlIGN4PSI0My41MjY5IiBjeT0i%0D%0ANTAiIHI9IjEwIiBmaWxsPSIjZDJkMmNiIj48YW5pbWF0ZSBhdHRyaWJ1dGVOYW1lPSJyIiB2YWx1%0D%0AZXM9IjA7MTA7MTA7MTA7MCIga2V5VGltZXM9IjA7MC4yNTswLjU7MC43NTsxIiBrZXlTcGxpbmVz%0D%0APSIwIDAuNSAwLjUgMTswIDAuNSAwLjUgMTswIDAuNSAwLjUgMTswIDAuNSAwLjUgMSIgY2FsY01v%0D%0AZGU9InNwbGluZSIgZHVyPSIxLjZzIiByZXBlYXRDb3VudD0iaW5kZWZpbml0ZSIgYmVnaW49IjBz%0D%0AIj48L2FuaW1hdGU+PGFuaW1hdGUgYXR0cmlidXRlTmFtZT0iY3giIHZhbHVlcz0iMTY7MTY7NTA7%0D%0AODQ7ODQiIGtleVRpbWVzPSIwOzAuMjU7MC41OzAuNzU7MSIga2V5U3BsaW5lcz0iMCAwLjUgMC41%0D%0AIDE7MCAwLjUgMC41IDE7MCAwLjUgMC41IDE7MCAwLjUgMC41IDEiIGNhbGNNb2RlPSJzcGxpbmUi%0D%0AIGR1cj0iMS42cyIgcmVwZWF0Q291bnQ9ImluZGVmaW5pdGUiIGJlZ2luPSIwcyI+PC9hbmltYXRl%0D%0APjwvY2lyY2xlPjxjaXJjbGUgY3g9IjE2IiBjeT0iNTAiIHI9IjguMDk2MTQiIGZpbGw9IiM3ZThl%0D%0AOGUiPjxhbmltYXRlIGF0dHJpYnV0ZU5hbWU9InIiIHZhbHVlcz0iMDswOzEwOzEwOzEwIiBrZXlU%0D%0AaW1lcz0iMDswLjI1OzAuNTswLjc1OzEiIGtleVNwbGluZXM9IjAgMC41IDAuNSAxOzAgMC41IDAu%0D%0ANSAxOzAgMC41IDAuNSAxOzAgMC41IDAuNSAxIiBjYWxjTW9kZT0ic3BsaW5lIiBkdXI9IjEuNnMi%0D%0AIHJlcGVhdENvdW50PSJpbmRlZmluaXRlIiBiZWdpbj0iMHMiPjwvYW5pbWF0ZT48YW5pbWF0ZSBh%0D%0AdHRyaWJ1dGVOYW1lPSJjeCIgdmFsdWVzPSIxNjsxNjsxNjs1MDs4NCIga2V5VGltZXM9IjA7MC4y%0D%0ANTswLjU7MC43NTsxIiBrZXlTcGxpbmVzPSIwIDAuNSAwLjUgMTswIDAuNSAwLjUgMTswIDAuNSAw%0D%0ALjUgMTswIDAuNSAwLjUgMSIgY2FsY01vZGU9InNwbGluZSIgZHVyPSIxLjZzIiByZXBlYXRDb3Vu%0D%0AdD0iaW5kZWZpbml0ZSIgYmVnaW49IjBzIj48L2FuaW1hdGU+PC9jaXJjbGU+PC9zdmc+">
+        <div id="fullscreen" class="fullscreen">
+          <div id="map" class="map"></div>
+        </div>
+<!--       <button id="fly" class="btn btn-secondary">Fly</button>
+      <button id="pan" class="btn btn-outline-default">Pan</button> -->
+      <button data-id="1" class="layer btn btn-info">Ayuntamientos</button>
+      <button data-id="0" class="layer btn btn-info">Sanidad</button>
+      <button data-id="2" class="layer btn btn-info">Deportivos</button>
+      <button data-id="3" class="layer btn btn-info">Museos</button>
+      <button class="removeAllFilter btn btn-info">Limpiar Mapa</button>
+      </div>
+
+    </div> 
+    <script type="text/javascript">
+    var view = new ol.View({
+          center: ol.proj.fromLonLat([-4.6408257683,37.5660828133156]), 
+          zoom: 7
+        });
+
+    function newLayer(kml){
+      return new ol.layer.Vector({
+            source: new ol.source.Vector({
+              url: 'https://raw.githubusercontent.com/dierodfer/public/master/'+kml+'.kml',
+              format: new ol.format.KML({
+                extractStyles: false
+              })
+            }),
+            style: iconStyle,
+          });
+    } 
+
+    var centrossaludLayer = newLayer('centros-salud');
+    var ayuntamientosLayer = newLayer('ayuntamientos');
+    var instalacionesdeportivasLayer = newLayer('instalaciones-deportivas');
+    var museosLayer = newLayer('museos');
+
+
+    var baseLayer = new ol.layer.Tile({
+                source: new ol.source.OSM()
+              });
+
+    function iconStyle(){
+      var style =  new ol.style.Style({
+              image: new ol.style.Icon(/** @type {module:ol/style/Icon~Options} */ ({
+                src: 'https://github.com/dierodfer/public/blob/master/images/location.png?raw=true',
+                scale: 1.1,
+              }))
+            });
+      $('.loading').addClass('d-none');
+      return style;
+      }
+
+    var extraLayers = [centrossaludLayer,ayuntamientosLayer,instalacionesdeportivasLayer,museosLayer];
+    var layers = [baseLayer];
+
+    var map = new ol.Map({
+            target: 'map',
+            controls: ol.control.defaults().extend([
+              new ol.control.FullScreen({
+                source: 'fullscreen'
+              })
+            ]),
+            layers: layers,
+            loadTilesWhileAnimating: true,
+            view: view,
+          });
+
+    $(document).ready(function(){
+      $('.layer').on("click", function() {
+        
+        var archivo = $(this).attr('data-id');
+        if($(this).hasClass('active')){
+          $(this).removeClass('active');
+            map.removeLayer(extraLayers[archivo]);
+        }else{
+          $('.loading').removeClass('d-none');
+          $(this).addClass('active');
+          map.addLayer(extraLayers[archivo]);
+        }
+          
+      });
+
+      $('.removeAllFilter').on("click", function() {
+        $(extraLayers).each(function(i,elem){
+          map.removeLayer(elem);
+        });
+      });
+
+      $('.ol-full-screen').on("click", function() {
+        $('#map').toggleClass("h-100");
+      });
+
+    });
+    </script>
+  </body>
+</html>
