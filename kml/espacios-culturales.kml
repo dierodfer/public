@@ -1,0 +1,433 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9" id="Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+	<SimpleField name="gml_id" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="tip_espc" type="string"></SimpleField>
+	<SimpleField name="descr" type="string"></SimpleField>
+	<SimpleField name="cod_ent" type="string"></SimpleField>
+</Schema>
+<Folder><name>Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID1</SimpleData>
+		<SimpleData name="nombre">Conjunto Monumental de la Alcazaba</SimpleData>
+		<SimpleData name="tip_espc">Conjunto Cultural</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt04</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-134.17,4077611.99</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID10</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Tútugi</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>149.6,4177374.9</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID11</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Castellón Alto</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>150,4177450</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID12</SimpleData>
+		<SimpleData name="nombre">Monumento Puerta de Almería</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-63.3199999999488,4077051.98</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID13</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de la Peña de los Gitanos</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-166.48,4180301.3</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID14</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Turobriga</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-14.4,4209719.42</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID15</SimpleData>
+		<SimpleData name="nombre">Monumento Dolmen de Soto</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>0.279999999998836,4139290.57</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID16</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Puente Tablas</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-177.44,4185617.05</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID17</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Cástulo</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>82.07,4210216.77</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID18</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de la Villa de Bruñel</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-56.5900000000256,4193316.2</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID19</SimpleData>
+		<SimpleData name="nombre">Conjunto Arqueológico Dólmenes de Antequera</SimpleData>
+		<SimpleData name="tip_espc">Conjunto Cultural</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt04</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>134.5,4098810.03</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID2</SimpleData>
+		<SimpleData name="nombre">Gades Romano (Teatro)</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>5.88000000000466,4047807.28</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID20</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica del Teatro Romano de Málaga</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-113.99,4064926.33</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID21</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Acinipo</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-146.02,4078848.11</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID22</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Singilia Barba</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>107.51,4099886.04</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID23</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de los Millares</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-164.96,4091112.31</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID24</SimpleData>
+		<SimpleData name="nombre">Monumento Baños Árabes de Ronda</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-71,4068307</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID25</SimpleData>
+		<SimpleData name="nombre">Conjunto Arqueológico de Itálica</SimpleData>
+		<SimpleData name="tip_espc">Conjunto Cultural</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt04</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>1.39000000001397,4148312.68</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID26</SimpleData>
+		<SimpleData name="nombre">Conjunto Arqueológico de Carmona</SimpleData>
+		<SimpleData name="tip_espc">Conjunto Cultural</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt04</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-114.5,4150296.29</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID27</SimpleData>
+		<SimpleData name="nombre">Monumento Monasterio de San Isidoro del Campo</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-53.4800000000105,4147568.8</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID28</SimpleData>
+		<SimpleData name="nombre">Momumento Palacio de Altamira</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>168.09,4142195.04</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID29</SimpleData>
+		<SimpleData name="nombre">Monumento Palacio Miguel de Mañara</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-98.49,4142311.19</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID3</SimpleData>
+		<SimpleData name="nombre">Conjunto Arqueológico de Madinat al-Zahara</SimpleData>
+		<SimpleData name="tip_espc">Conjunto Cultural</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt04</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>8.85999999998603,4195062.37</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID30</SimpleData>
+		<SimpleData name="nombre">Monumento Monasterio de Santa María de las Cuevas</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-103.53,4143490.52</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID31</SimpleData>
+		<SimpleData name="nombre">Monumento Dolmén de Matarubilla</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>64.81,4144639.75</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID32</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de la Basílica Paleocristiana de Gerena</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-76.7000000000116,4158633.97</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID33</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Mulva</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>46.09,4177749.75</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID34</SimpleData>
+		<SimpleData name="nombre">Monumento Castillo de Vélez Blanco</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-115.15,4171905.97</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID35</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Celti</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-47.5,4176000.0</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID36</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica del Cerro de la Virgen</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>63.9300000000512,4175861.82</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID37</SimpleData>
+		<SimpleData name="nombre">Monumento Palacio de Dar Al-Horra</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>55,4115391</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID38</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Villaricos</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-167.8,4123028.28</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID39</SimpleData>
+		<SimpleData name="nombre">Conjunto Arqueológico de Baelo Claudia</SimpleData>
+		<SimpleData name="tip_espc">Conjunto Cultural</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt04</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>85.0,3998057.95</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID4</SimpleData>
+		<SimpleData name="nombre">Monumento Sinagoga de Córdoba</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-168.78,4194184.43</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID40</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Carteia</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-111.91,4007421.28</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID41</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Doña Blanca</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-11.26,4058364.92</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID42</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Carissa Aurelia</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>149,4084214</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID5</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Cercadilla</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>2,4194863</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID6</SimpleData>
+		<SimpleData name="nombre">Zona Arqueológica de Ategua</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-10,4179834</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID7</SimpleData>
+		<SimpleData name="nombre">Monumento Castillo de Sotomayor</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-35,4272706</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID8</SimpleData>
+		<SimpleData name="nombre">Conjunto Monumental de la Alhambra y el Generalife</SimpleData>
+		<SimpleData name="tip_espc">Conjunto Cultural</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt04</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-94.4799999999814,4114850.83</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_9481cb5d_ba29_48da_a9bb_3e1bce7f1af9">
+		<SimpleData name="gml_id">ID9</SimpleData>
+		<SimpleData name="nombre">Monumento Baños Árabes del Bañuelo</SimpleData>
+		<SimpleData name="tip_espc">Enclave</SimpleData>
+		<SimpleData name="descr">Espacios culturales</SimpleData>
+		<SimpleData name="cod_ent">pt05</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-5.90000000002328,4115040.46</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>

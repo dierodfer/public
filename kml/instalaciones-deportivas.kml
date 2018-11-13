@@ -1,0 +1,3072 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4" id="Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+	<SimpleField name="gml_id" type="string"></SimpleField>
+	<SimpleField name="nombre" type="string"></SimpleField>
+	<SimpleField name="tipo" type="string"></SimpleField>
+	<SimpleField name="cod_ent" type="string"></SimpleField>
+</Schema>
+<Folder><name>Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4</name>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID1</SimpleData>
+		<SimpleData name="nombre">Polideportivo &quot;La Paz&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-118.425899999973,4242235.2117</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID10</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-6.80080000002636,4126487.1812</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID100</SimpleData>
+		<SimpleData name="nombre">Campo de tiro olímpico &quot;Carchuna&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-51.8169999999809,4062996.9492</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID101</SimpleData>
+		<SimpleData name="nombre">Funny beach</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>89.2158,4042039.2579</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID102</SimpleData>
+		<SimpleData name="nombre">Campo de fútbol &quot;Santo Domingo&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-133.302199999976,4068896.3333</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID103</SimpleData>
+		<SimpleData name="nombre">Pabellón deportivo &quot;El Ejido&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>6.41810000000987,4069591.9865</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID104</SimpleData>
+		<SimpleData name="nombre">Karting Copo</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-122.542200000025,4067705.5391</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID105</SimpleData>
+		<SimpleData name="nombre">Circuito de karting &quot;Roquetas&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>141.1102,4072973.2963</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID106</SimpleData>
+		<SimpleData name="nombre">Pabellón de deportes &quot;Infanta Cristina&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>53.642600000021,4069443.2343</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID107</SimpleData>
+		<SimpleData name="nombre">Estadio municipal &quot;Antonio Peroles&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-28.3638000000501,4067687.3568</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID108</SimpleData>
+		<SimpleData name="nombre">Piscina de las Almadrabillas</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>34.1417000000365,4076569.6355</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID109</SimpleData>
+		<SimpleData name="nombre">Club hípico y polideportivo</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>70.468499999959,4077670.7235</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID11</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>175.8351,4143331.9269</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID110</SimpleData>
+		<SimpleData name="nombre">Estadio de la Juventud &quot;Emilio Carpra&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-57.9377,4076413.648</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID111</SimpleData>
+		<SimpleData name="nombre">Pabellón &quot;Rafael Florido&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>82.7567999999737,4077474.9745</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID112</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>47.3631000000169,4241869.6521</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID113</SimpleData>
+		<SimpleData name="nombre">Polideportivo Guadaiza &quot;La Campana&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-102.3542,4041186.7702</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID114</SimpleData>
+		<SimpleData name="nombre">Estadio de los Juegos Mediterráneos</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>9.0289000000339,4077484.1502</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID115</SimpleData>
+		<SimpleData name="nombre">Pabellón de los deportes</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>87.6398,4077309.8113</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID116</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-155.325700000045,4122666.2231</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID117</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-33.624199999962,4139135.0023</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID118</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>3.14119999995455,4139838.6902</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID119</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-175.499,4078231.619</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID12</SimpleData>
+		<SimpleData name="nombre">Karting club</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-2.45490000001155,4122752.4763</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID120</SimpleData>
+		<SimpleData name="nombre">Canal de remo y piraguismo</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>17.7297999999719,4131031.1711</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID121</SimpleData>
+		<SimpleData name="nombre">Circuito de supercross</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-176.8139,4127947.5042</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID122</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-33.7754999999888,4138221.7987</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID123</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;Cruz de Mayo&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>112.382,4132870.9221</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID124</SimpleData>
+		<SimpleData name="nombre">Club hípico de Marbella</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-17.7408999999752,4043992.8314</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID125</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross &quot;La Mina&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>25.9405999999726,4137796.6006</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID126</SimpleData>
+		<SimpleData name="nombre">Karting &quot;Garrucha&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>173.299899999984,4114705.2104</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID127</SimpleData>
+		<SimpleData name="nombre">Campo de tiro olímpico</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>79.1948000000557,4147261.9284</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID128</SimpleData>
+		<SimpleData name="nombre">Centro de tiro olímpico</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.572700000019,4088104.1501</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID129</SimpleData>
+		<SimpleData name="nombre">Circuito de velocidad</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-136.364199999953,4105033.5742</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID13</SimpleData>
+		<SimpleData name="nombre">Pabellón cubierto</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>51.9949,4176510.7724</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID130</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>83.1306000000332,4101202.7698</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID131</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-72.9183999999659,4133540.0614</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID132</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>55.1903999999631,4106802.752</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID133</SimpleData>
+		<SimpleData name="nombre">Campo de hockey</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-70.8951000000234,4145702.5464</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID134</SimpleData>
+		<SimpleData name="nombre">Piscina cubierta</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>146.420099999988,4146220.9427</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID135</SimpleData>
+		<SimpleData name="nombre">Palacio de deportes &quot;San Pedro&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.398800000024,4040575.9908</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID136</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-83.662399999972,4145789.1751</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID137</SimpleData>
+		<SimpleData name="nombre">Campo de Linarejos</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>178.9508,4217642.902</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID138</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-161.381500000018,4216952.6771</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID139</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>28.1586000000243,4215201.7954</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID14</SimpleData>
+		<SimpleData name="nombre">Club hípico &quot;Candela&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>160.493,4132909.6545</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID140</SimpleData>
+		<SimpleData name="nombre">Estadio de la Victoria</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>164.9841,4181378.5027</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID141</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>60.4685000000172,4182709.9981</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID142</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-47.3222,4210231.198</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID143</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>124.1007,4210498.6503</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID144</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-59.8033000000287,4210932.6969</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID145</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-57.4744,4205447.7141</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID146</SimpleData>
+		<SimpleData name="nombre">Centro de tonificación y alto rendimiento de gimnasia rítmica</SimpleData>
+		<SimpleData name="tipo">Centro de alto rendimiento</SimpleData>
+		<SimpleData name="cod_ent">s31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>92.9762999999803,4043088.5617</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID147</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-143.990800000029,4205974.272</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID148</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>124.948900000018,4207272.2984</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID149</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-110.815699999977,4206997.053</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID15</SimpleData>
+		<SimpleData name="nombre">Zona hípica &quot;Zaudín&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-152.5392,4139375.434</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID150</SimpleData>
+		<SimpleData name="nombre">Polideportivo &quot;San Miguel&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-41.4024000000209,4207393.7822</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID151</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>64.7182999999495,4239386.1427</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID152</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>134.690899999987,4224051.6298</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID153</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-19.9408999999869,4219062.649</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID154</SimpleData>
+		<SimpleData name="nombre">Polideportivo &quot;Maestro Martínez García&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-163.74,4234393.0199</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID155</SimpleData>
+		<SimpleData name="nombre">Polideportivo municpal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-47.4479000000283,4210458.5081</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID156</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>0.983699999982491,4212287.4775</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID157</SimpleData>
+		<SimpleData name="nombre">Estadio de fútbol &quot;Mauli&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-82.7182,4098536.1242</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID158</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-133.696400000015,4179918.1966</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID159</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>52.5208,4161161.9024</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID16</SimpleData>
+		<SimpleData name="nombre">Escuela de equitación &quot;Monteverde&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>76.9234,4132747.0007</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID160</SimpleData>
+		<SimpleData name="nombre">Estadio municipal &quot;Matías Prats&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>63.4335999999894,4180274.4816</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID161</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-28.3691000000108,4179785.947</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID162</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>93.8083999999799,4180925.1396</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID163</SimpleData>
+		<SimpleData name="nombre">Pabellón &quot;28 de Febrero&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>113.374599999981,4216447.8945</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID164</SimpleData>
+		<SimpleData name="nombre">Nuevo estadio &quot;El Arcángel&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>31.0153999999748,4193323.601</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID165</SimpleData>
+		<SimpleData name="nombre">Plaza de los Califas</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-92.2982000000193,4194465.6545</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID166</SimpleData>
+		<SimpleData name="nombre">Club hípico de Córdoba</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>161.027300000016,4196815.8032</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID167</SimpleData>
+		<SimpleData name="nombre">Centro ecuestre &quot;La Loma&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-116.9665,4195489.8954</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID168</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>137.928699999989,4098725.4672</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID169</SimpleData>
+		<SimpleData name="nombre">Club &quot;La Milana&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-134.793500000029,4144283.1351</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID17</SimpleData>
+		<SimpleData name="nombre">Centro ecuestre &quot;Epona&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-10.2521000000124,4149423.1742</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID170</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>57.1944999999832,4144595.7702</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID171</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal de deportes</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>151.684,4144784.8721</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID172</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>30.18,4144931.5224</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID173</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross &quot;El Arenal&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-127.7073,4143346.2248</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID174</SimpleData>
+		<SimpleData name="nombre">Centro de tecnificación de tenis de mesa</SimpleData>
+		<SimpleData name="tipo">Centro de alto rendimiento</SimpleData>
+		<SimpleData name="cod_ent">s31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>107.69,4144892.4579</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID175</SimpleData>
+		<SimpleData name="nombre">Club de tiro olímpico &quot;Pontanes&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>116.6779,4136559.18</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID176</SimpleData>
+		<SimpleData name="nombre">Campo de tiro olímpico &quot;San Jorge&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-101.268,4157780.6519</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID177</SimpleData>
+		<SimpleData name="nombre">Caballerizas Reales</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-122.9153,4193812.1088</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID178</SimpleData>
+		<SimpleData name="nombre">Palacio de deportes &quot;Vistalegre&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-152.880799999984,4193847.6027</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID179</SimpleData>
+		<SimpleData name="nombre">Pabellón cubierto</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-145.4461,4098698.1792</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID18</SimpleData>
+		<SimpleData name="nombre">Estadio &quot;Ramón de Carranza&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-29.9555999999866,4044884.9969</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID180</SimpleData>
+		<SimpleData name="nombre">Zona deportiva de &quot;La Areté&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-126.3063,4197854.7111</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID181</SimpleData>
+		<SimpleData name="nombre">Instalaciones deportivas de &quot;La Fuensanta&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-105.9558,4194515.1658</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID182</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-1.97539999999572,4238009.6609</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID183</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-144.946400000015,4239059.5155</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID184</SimpleData>
+		<SimpleData name="nombre">Centro ecuestre &quot;Aguas Vivas&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-20.6854000000167,4240181.9627</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID185</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-129.5393,4148570.3315</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID186</SimpleData>
+		<SimpleData name="nombre">Parque deportivo de Cabra</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>167.671199999982,4147476.6695</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID187</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-74.2260000000242,4148254.0416</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID188</SimpleData>
+		<SimpleData name="nombre">Circuito de educación vial &quot;Antonio Povedano&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>76.3262000000104,4148107.156</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID189</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>79.6672999999719,4262804.601</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID19</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;Ciudad de Cádiz&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-179.2726,4044231.7773</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID190</SimpleData>
+		<SimpleData name="nombre">Campo de fútbol &quot;Fernando Hierro&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>14.2982000000193,4070407.4878</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID191</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>95.3475999999791,4142234.0165</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID192</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-125.413,4141472.0604</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID193</SimpleData>
+		<SimpleData name="nombre">Pabellón cubierto</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>103.717400000023,4141750.3464</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID194</SimpleData>
+		<SimpleData name="nombre">Escuela de equitación &quot;Alfonso Porras Maestre&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-86.7887999999803,4133778.6067</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID195</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-78.8657000000239,4248931.144</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID196</SimpleData>
+		<SimpleData name="nombre">Estadio de fútbol</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-126.723699999973,4248419.5135</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID197</SimpleData>
+		<SimpleData name="nombre">Club hípico</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>53.9528999999748,4246166.3999</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID198</SimpleData>
+		<SimpleData name="nombre">Pabellón &quot;Alcalde Miguel Salas&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>45.9297999999835,4139238.9876</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID199</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;Jesús Nazareno&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-131.217599999974,4139643.4308</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID2</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-8.12390000000596,4164907.3427</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID20</SimpleData>
+		<SimpleData name="nombre">Pabellón &quot;Fernando Portillo&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-119.029100000014,4046926.9878</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID200</SimpleData>
+		<SimpleData name="nombre">Pabellón cubierto municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-9.54570000001695,4004395.2406</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID201</SimpleData>
+		<SimpleData name="nombre">Karting del Sol</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>133.588500000013,4065768.3413</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID202</SimpleData>
+		<SimpleData name="nombre">Ciudad deportiva de la Línea</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>104.625,4004118.0777</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID203</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-79.4219000000157,4005339.7042</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID204</SimpleData>
+		<SimpleData name="nombre">Estadio municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>132.330499999982,4004287.275</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID205</SimpleData>
+		<SimpleData name="nombre">Campo de polo &quot;Caballo Loco&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>159.731,4023775.4383</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID206</SimpleData>
+		<SimpleData name="nombre">Santa María Polo Club</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>165.507900000026,4019045.7615</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID207</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>146.829199999978,4010019.0044</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID208</SimpleData>
+		<SimpleData name="nombre">Velódromo &quot;Manuel Moreno Periñán&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-7.51170000000275,4035161.7903</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID209</SimpleData>
+		<SimpleData name="nombre">Campo de fútbol</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>3.18340000000899,4035734.8831</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID21</SimpleData>
+		<SimpleData name="nombre">Estadio municipal &quot;Nuevo Mirador&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>98.5435000000289,4005068.5974</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID210</SimpleData>
+		<SimpleData name="nombre">Pabellón &quot;Ciudad de Chiclana&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-62.7784000000102,4034598.4109</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID211</SimpleData>
+		<SimpleData name="nombre">Plaza de &quot;El Pino&quot;</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>150.7698,4076399.4521</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID212</SimpleData>
+		<SimpleData name="nombre">Club hípico &quot;Curro Lucena&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>118.4116,4065916.0227</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID213</SimpleData>
+		<SimpleData name="nombre">Estadio &quot;Nuevo Colombino&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-45.1022,4129751.706</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID214</SimpleData>
+		<SimpleData name="nombre">Plaza de la Merced</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-94.119,4131854.9929</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID215</SimpleData>
+		<SimpleData name="nombre">Estadio municipal &quot;Arturo Puntas Vela&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-109.312,4059128.2337</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID216</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-47.9934,4047289.0747</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID217</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-135.067,4048026.9092</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID218</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross &quot;El Barrero&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-66.2758,4074537.3756</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID219</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;El Picacho&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-67.4681,4075730.8233</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID22</SimpleData>
+		<SimpleData name="nombre">Plaza de las Palomas</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-178.247099999979,4002400.9253</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID220</SimpleData>
+		<SimpleData name="nombre">Pista polideportiva municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>98.361899999989,4038556.0176</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID221</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-174.335,4039867.6099</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID222</SimpleData>
+		<SimpleData name="nombre">Pabellón &quot;Soldado Samuel Aguilar&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>61.3988000000245,4007576.9649</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID223</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>73.021,4216124.0963</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID224</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;San Miguel&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-161.9867,4054270.7913</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID225</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;San Rafael&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>7.92469999997411,4007719.2978</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID226</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>44.9920000000275,4087027.9799</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID227</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal &quot;28 de Febrero&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>28.4015999999829,4082004.0712</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID228</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>154.5439,4061343.7719</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID229</SimpleData>
+		<SimpleData name="nombre">Sociedad de carreras de caballos</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-9.03539999999339,4075457.9078</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID23</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-152.084299999988,4002740.3452</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID230</SimpleData>
+		<SimpleData name="nombre">Club hípico &quot;Roche&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>22.923,4024835.1098</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID231</SimpleData>
+		<SimpleData name="nombre">Pista de doma &quot;Rancho los Lobos&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-127.1971,4032922.1726</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID232</SimpleData>
+		<SimpleData name="nombre">Sotogrande hípica</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>129.373499999987,4018719.0904</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID233</SimpleData>
+		<SimpleData name="nombre">Nuevo complejo deportivo</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-39.7398999999859,4134005.3309</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID234</SimpleData>
+		<SimpleData name="nombre">Kartodromo de Cartaya</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>137.037699999986,4132158.7969</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID235</SimpleData>
+		<SimpleData name="nombre">Plaza de la Malagueta</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>79.4744,4064981.1416</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID236</SimpleData>
+		<SimpleData name="nombre">Estadio Iberoamericano de Atletismo</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>121.380899999989,4131926.1035</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID237</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>162.4757,4132336.1091</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID238</SimpleData>
+		<SimpleData name="nombre">Complejo polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>79.8818,4130664.6847</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID239</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;Ciudad de Huelva&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-106.214199999988,4132641.4708</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID24</SimpleData>
+		<SimpleData name="nombre">Velódromo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-6.49589999997988,4186524.1995</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID240</SimpleData>
+		<SimpleData name="nombre">Velódromo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-159.249,4138706.3884</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID241</SimpleData>
+		<SimpleData name="nombre">Campo de tiro</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>7.6017,4141604.8699</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID242</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-96.8330999999889,4198448.7713</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID243</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-148.6164,4200435.0658</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID244</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-47.9884,4207403.4362</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID245</SimpleData>
+		<SimpleData name="nombre">Pista hípica &quot;Fegar&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-10.0750000000116,4208049.2815</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID246</SimpleData>
+		<SimpleData name="nombre">Estadio de atletismo &quot;Ciudad de Málaga&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>133.806,4060715.5214</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID247</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-144.7834,4128147.4068</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID248</SimpleData>
+		<SimpleData name="nombre">Pabellón cubierto</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>120.9341,4126684.4501</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID249</SimpleData>
+		<SimpleData name="nombre">Estadio &quot;Blas Infante&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-166.0119,4126668.6186</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID25</SimpleData>
+		<SimpleData name="nombre">Campo de tiro con arco</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-32.8738,3995875.0071</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID250</SimpleData>
+		<SimpleData name="nombre">Doñana ecuestre</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-3.45060000001104,4115887.4033</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID251</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>114.712900000013,4192711.6836</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID252</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-58.9301,4177019.2841</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID253</SimpleData>
+		<SimpleData name="nombre">Pista hípica</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>65.3341,4172067.7618</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID254</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>47.1495,4123015.7419</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID255</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>66.2625000000116,4178386.5388</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID256</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>73.5321000000113,4177944.1896</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID257</SimpleData>
+		<SimpleData name="nombre">Ciudad deportiva &quot;Carranque&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>2.66289999999572,4065018.9229</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID258</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>140.909600000014,4186177.5774</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID259</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-148.591600000014,4202521.5249</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID26</SimpleData>
+		<SimpleData name="nombre">Campo de fútbol &quot;José Cuvillo&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-13.6777,4054403.4959</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID260</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>104.0097,4201717.4508</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID261</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>48.4151000000129,4193814.4634</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID262</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross &quot;Las Arenas&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>134.874099999986,4159071.8811</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID263</SimpleData>
+		<SimpleData name="nombre">Complejo municipal &quot;Las Moreras&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>17.2014,4130591.8451</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID264</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-51.2601000000141,4116956.8572</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID265</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-21.4429,4143960.2564</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID266</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>48.4627,4149553.8527</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID267</SimpleData>
+		<SimpleData name="nombre">Polideportivo &quot;Angel Estrada&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>149.279100000014,4130986.0222</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID268</SimpleData>
+		<SimpleData name="nombre">Pabellón cubierto &quot;Ciudad Jardín&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>70.3587999999872,4068374.4947</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID269</SimpleData>
+		<SimpleData name="nombre">Palacio municipal de deportes</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-126.4907,4131757.2718</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID27</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-54.6344,4055233.6306</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID270</SimpleData>
+		<SimpleData name="nombre">Circuito minimotos</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>79.7772000000114,4061509.5887</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID271</SimpleData>
+		<SimpleData name="nombre">Club hípico de Málaga</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-33.9609,4068064.3964</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID272</SimpleData>
+		<SimpleData name="nombre">Campo de fútbol &quot;La Rosaleda&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>129.952500000014,4066540.1086</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID273</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-93.7001000000164,4068694.5451</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID274</SimpleData>
+		<SimpleData name="nombre">Club de tiro olímpico &quot;El Pinsapo&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>175.2807,4065622.8447</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID275</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>23.9944999999716,4208483.7367</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID276</SimpleData>
+		<SimpleData name="nombre">Circuito &quot;Askari&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-89.4675000000279,4077522.8209</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID277</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-132.408799999976,4069481.5183</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID278</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>21.1363000000129,4032706.6611</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID279</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-142.434200000018,4055383.173</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID28</SimpleData>
+		<SimpleData name="nombre">Ciudad deportiva</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-21.6571999999869,4054202.2512</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID280</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-48.5907,4057518.8183</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID281</SimpleData>
+		<SimpleData name="nombre">Karting club &quot;Málaga&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-9.84200000000419,4044710.1156</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID282</SimpleData>
+		<SimpleData name="nombre">Karting &quot;Campillos&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-109.135200000019,4100925.4662</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID283</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-148.5957,4069089.8208</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID284</SimpleData>
+		<SimpleData name="nombre">Plaza de la Maestranza</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-73.5458,4142112.627</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID285</SimpleData>
+		<SimpleData name="nombre">Estadio &quot;Ramón Sánchez Pizjuán&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-134.8311,4141825.4411</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID286</SimpleData>
+		<SimpleData name="nombre">Pabellón cubierto</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-11.0495000000228,4205056.8518</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID287</SimpleData>
+		<SimpleData name="nombre">Estadio &quot;Manuel Ruíz de Lopera&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-143.1146,4138792.3545</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID288</SimpleData>
+		<SimpleData name="nombre">Ciudad deportiva del Real Betis Balompie</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>145.100100000011,4138485.4642</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID289</SimpleData>
+		<SimpleData name="nombre">Pabellón &quot;San Pablo&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>94.5499000000127,4143201.8295</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID29</SimpleData>
+		<SimpleData name="nombre">Campo de tiro &quot;Guadalete&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de tiro</SimpleData>
+		<SimpleData name="cod_ent">s30</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>120.472100000014,4053702.805</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID290</SimpleData>
+		<SimpleData name="nombre">Centro de tecnificación de tenis &quot;Blas Infante&quot;</SimpleData>
+		<SimpleData name="tipo">Centro de alto rendimiento</SimpleData>
+		<SimpleData name="cod_ent">s31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>142.506,4143034.727</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID291</SimpleData>
+		<SimpleData name="nombre">Centro deportivo &quot;Hytasa&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>144.2917,4140413.6286</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID292</SimpleData>
+		<SimpleData name="nombre">Centro deportivo &quot;Tiro de Línea&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>6.1434,4140212.958</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID293</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal de deportes &quot;Amate&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-70.3574,4141219.2045</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID294</SimpleData>
+		<SimpleData name="nombre">Centro deportivo &quot;Mar del Plata&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-35.5382999999856,4141017.7233</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID295</SimpleData>
+		<SimpleData name="nombre">Circuito de karts &quot;Edikarts&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>54.1845,4142956.9848</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID296</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-142.4039,4152476.4194</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID297</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>102.041099999973,4205012.1729</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID298</SimpleData>
+		<SimpleData name="nombre">Centro de tecnificación de gimnasia &quot;Arturo Toscano&quot;</SimpleData>
+		<SimpleData name="tipo">Centro de alto rendimiento</SimpleData>
+		<SimpleData name="cod_ent">s31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>13.3354000000108,4140806.9532</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID299</SimpleData>
+		<SimpleData name="nombre">Velódromo de Dos Hermanas</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-116.546200000012,4129018.6545</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID3</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-54.4788000000117,4141372.3072</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID30</SimpleData>
+		<SimpleData name="nombre">Centro ecuestre &quot;Las Marías&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>90.7733,4056053.9302</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID300</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;Los Montecillos&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-9.09400000001187,4129066.2193</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID301</SimpleData>
+		<SimpleData name="nombre">Campo de fútbol &quot;Miguel Román&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>91.6745,4131449.5455</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID302</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo de Montequinto</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-62.8176,4135777.5175</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID303</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-97.9745000000112,4124019.3666</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID304</SimpleData>
+		<SimpleData name="nombre">Pistas polideportivas</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>123.2207,4123908.5211</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID305</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross &quot;El Calvario&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-130.100900000019,4118958.222</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID306</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-53.3432,4136495.0478</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID307</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>131.842,4111253.5924</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID308</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>92.5535999999847,4171383.1566</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID309</SimpleData>
+		<SimpleData name="nombre">Piscinas municipales</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-124.3492,4111219.1786</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID31</SimpleData>
+		<SimpleData name="nombre">Escuela hípica &quot;Villa Julia&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-20.7995,4057302.0455</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID310</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross &quot;Guadaíra&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>170.955299999972,4108450.7081</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID311</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>85.9444999999832,4171147.0602</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID312</SimpleData>
+		<SimpleData name="nombre">Club de campo &quot;Las Lagunas&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-58.2161000000197,4172678.0108</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID313</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>55.8203,4159397.4118</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID314</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>79.1912,4141676.4956</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID315</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>118.8762,4156662.5899</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID316</SimpleData>
+		<SimpleData name="nombre">Estadio municipal &quot;San Pablo&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>65.3039,4156553.3394</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID317</SimpleData>
+		<SimpleData name="nombre">Instalaciones deportivas &quot;La Alcarrachela&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-81.8412000000244,4157609.5702</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID318</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>133.058200000029,4195216.2045</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID319</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>58.437900000019,4152887.8368</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID32</SimpleData>
+		<SimpleData name="nombre">Escuela municipal de equitación &quot;Chapín&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-136.4006,4065430.13</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID320</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>134.4171,4201461.8172</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID321</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>128.3154,4177273.5521</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID322</SimpleData>
+		<SimpleData name="nombre">Karting &quot;Castillo de las Guardas&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>18.9655,4177534.3327</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID323</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>8.6734,4166298.4426</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID324</SimpleData>
+		<SimpleData name="nombre">Complejo polideportivo &quot;Primero de Mayo&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>34.5354,4139006.8815</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID325</SimpleData>
+		<SimpleData name="nombre">Nuevo campo de fútbol &quot;San Bartolomé&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>41.2827000000107,4139086.7988</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID326</SimpleData>
+		<SimpleData name="nombre">Campo de fútbol</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>26.5837000000174,4122267.7809</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID327</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-77.37,4219605.3097</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID328</SimpleData>
+		<SimpleData name="nombre">Centro polideportivo y piscina climatizada</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>31.6476,4164810.3872</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID329</SimpleData>
+		<SimpleData name="nombre">Complejo polideportivo &quot;San Juan&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-109.624,4135594.4558</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID33</SimpleData>
+		<SimpleData name="nombre">Estadio municipal &quot;Chapín&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-111.936599999986,4065152.9813</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID330</SimpleData>
+		<SimpleData name="nombre">Piscina muncipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-21.1837,4173080.7726</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID331</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo Malasmañas</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>171.1802,4137491.5391</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID332</SimpleData>
+		<SimpleData name="nombre">Club deportivo &quot;El Pino&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-64.6409,4136776.2957</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID333</SimpleData>
+		<SimpleData name="nombre">Polideportivo de Bormujos</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-99.8188,4140833.7956</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID334</SimpleData>
+		<SimpleData name="nombre">Complejo polideportivo de Camas</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>27.1227,4144021.2131</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID335</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>175.6263,4142741.8361</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID336</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;Cavaleri&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-89.3969,4138628.6918</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID337</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal &quot;El Canjilón&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>126.074499999988,4130215.8411</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID338</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>20.439,4131791.9006</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID339</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>131.837799999979,4160693.574</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID34</SimpleData>
+		<SimpleData name="nombre">Palacio municipal de los deportes</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-112.8877,4065567.0041</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID340</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-51.450600000011,4140027.3426</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID35</SimpleData>
+		<SimpleData name="nombre">Circuito de Villafranca</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>29.7336999999825,4202640.7549</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID36</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>37.5587,4065150.7205</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID37</SimpleData>
+		<SimpleData name="nombre">Real escuela andaluza de arte ecuestre</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>145.2395,4065576.9242</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID38</SimpleData>
+		<SimpleData name="nombre">Piscinas &quot;Club Nazaret&quot;</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-47.253,4064012.9271</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID39</SimpleData>
+		<SimpleData name="nombre">Piscina &quot;Jerez&quot;</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-36.9713,4065545.9815</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID4</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>24.7758,4116257.396</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID40</SimpleData>
+		<SimpleData name="nombre">Centro ecuestre &quot;Los Lagos&quot;</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-137.8811,4058783.5417</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID41</SimpleData>
+		<SimpleData name="nombre">Centro ecuestre jerezano</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-57.8479,4064819.2184</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID42</SimpleData>
+		<SimpleData name="nombre">Campo de fútbol</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>150.7463,4042196.7533</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID43</SimpleData>
+		<SimpleData name="nombre">Piscinas municipales</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>37.1477,4040616.9562</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID44</SimpleData>
+		<SimpleData name="nombre">Pabellón del Parque</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>94.0505000000121,4040673.4038</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID45</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-49.8591,4041075.4959</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID46</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross &quot;El Pinillo&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>109.225199999986,4188972.9788</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID47</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-172.626500000013,4040671.2909</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID48</SimpleData>
+		<SimpleData name="nombre">Centro de Alto Rendimiento de Sierra Nevada</SimpleData>
+		<SimpleData name="tipo">Centro de alto rendimiento</SimpleData>
+		<SimpleData name="cod_ent">s31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>52.2580999999773,4106182.0513</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID49</SimpleData>
+		<SimpleData name="nombre">Estación de esquí de Sierra Nevada</SimpleData>
+		<SimpleData name="tipo">Deportes de nieve</SimpleData>
+		<SimpleData name="cod_ent">s34</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-8.45189999998547,4103163.8851</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID5</SimpleData>
+		<SimpleData name="nombre">Piscina municipal</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>160.613,4089797.443</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID50</SimpleData>
+		<SimpleData name="nombre">Estación recreativa del Puerto de la Ragua</SimpleData>
+		<SimpleData name="tipo">Deportes de nieve</SimpleData>
+		<SimpleData name="cod_ent">s34</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-45.2173000000184,4107736.4617</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID51</SimpleData>
+		<SimpleData name="nombre">Centro de Alto Rendimiento de Remo y Piragüismo</SimpleData>
+		<SimpleData name="tipo">Centro de alto rendimiento</SimpleData>
+		<SimpleData name="cod_ent">s31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>119.2598,4144923.7716</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID52</SimpleData>
+		<SimpleData name="nombre">Estadio Olímpico de Sevilla</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-159.537699999986,4145613.9772</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID53</SimpleData>
+		<SimpleData name="nombre">Hipódromo de Pineda</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>23.7499,4137824.1454</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID54</SimpleData>
+		<SimpleData name="nombre">Gran Hipódromo de Andalucía</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-26.9249999999884,4134037.6532</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID55</SimpleData>
+		<SimpleData name="nombre">Circuito de Jerez</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-93.8249,4067052.7611</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID56</SimpleData>
+		<SimpleData name="nombre">Hipódromo Mijas Costa</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-49.7870000000112,4043411.6307</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID57</SimpleData>
+		<SimpleData name="nombre">Circuito motor-bici</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-98.9306000000215,4262418.2178</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID58</SimpleData>
+		<SimpleData name="nombre">Centro de Alto Rendimiento de Tiro Olímpico</SimpleData>
+		<SimpleData name="tipo">Centro de alto rendimiento</SimpleData>
+		<SimpleData name="cod_ent">s31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>134.733599999978,4108668.5235</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID59</SimpleData>
+		<SimpleData name="nombre">Palacio de deportes &quot;Martín Carpena&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-100.5041,4060841.8051</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID6</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>86.3538000000117,4096371.4351</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID60</SimpleData>
+		<SimpleData name="nombre">Nuevo estadio &quot;Los Cármenes&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>89.1686999999802,4112207.8185</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID61</SimpleData>
+		<SimpleData name="nombre">Palacio de deportes</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-125.9606,4112276.9446</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID62</SimpleData>
+		<SimpleData name="nombre">Estadio de fútbol &quot;Francisco Bonet&quot;</SimpleData>
+		<SimpleData name="tipo">Campo de fútbol</SimpleData>
+		<SimpleData name="cod_ent">s29</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-134.2966,4065838.3835</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID63</SimpleData>
+		<SimpleData name="nombre">Pabellón de deportes &quot;José María García&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>49.1998,4065701.057</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID64</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;El Ferial&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-133.485,4065963.3854</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID65</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal de deportes</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-28.3682999999728,4066521.2517</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID66</SimpleData>
+		<SimpleData name="nombre">Pabellón cubierto</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-167.718700000027,4067183.8562</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID67</SimpleData>
+		<SimpleData name="nombre">Muro de escalada &quot;Río Vélez&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-45.242900000012,4072155.2448</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID68</SimpleData>
+		<SimpleData name="nombre">Estadio municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-47.2322999999742,4042558.9656</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID69</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>91.5211000000127,4113934.331</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID7</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-123.550500000012,4107482.0531</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID70</SimpleData>
+		<SimpleData name="nombre">Polideportivo &quot;La Alfaguara&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-46.7459999999846,4114852.6228</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID71</SimpleData>
+		<SimpleData name="nombre">Ciudad deportiva de Maracena</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>172.735600000015,4118675.4071</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID72</SimpleData>
+		<SimpleData name="nombre">Polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>32.2446999999811,4121334.1792</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID73</SimpleData>
+		<SimpleData name="nombre">Circuito de Karts &quot;Las Canteras&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-103.8001,4122018.9284</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID74</SimpleData>
+		<SimpleData name="nombre">Velódromo ACYCA</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>88.4254,4127379.2834</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID75</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo Guadix</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>10.4111000000266,4129450.9853</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID76</SimpleData>
+		<SimpleData name="nombre">Circuito de velocidad &quot;Guadix&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-77.1568,4139540.3103</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID77</SimpleData>
+		<SimpleData name="nombre">Circuito &quot;Santa Bárbara&quot;</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-173.013799999957,4152342.6301</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID78</SimpleData>
+		<SimpleData name="nombre">Ciudad deportiva de Armilla</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>149.113399999973,4110417.4404</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID79</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo cubierto</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>133.6818,4042602.1382</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID8</SimpleData>
+		<SimpleData name="nombre">Pabellón deportivo &quot;Andrés Jiménez&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-166.818900000013,4149889.7891</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID80</SimpleData>
+		<SimpleData name="nombre">Piscina &quot;Montebajo&quot;</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>142.1616,4105448.0754</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID81</SimpleData>
+		<SimpleData name="nombre">Piscina &quot;Suspiro del Moro&quot;</SimpleData>
+		<SimpleData name="tipo">Piscina</SimpleData>
+		<SimpleData name="cod_ent">s37</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>14.2986999999848,4102913.6425</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID82</SimpleData>
+		<SimpleData name="nombre">Polideportivo de Peligros</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-134.565300000017,4121586.0149</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID83</SimpleData>
+		<SimpleData name="nombre">Recinto polideportivo municipal</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-168.1236,4168180.8228</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID84</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>46.9016999999876,4159593.9508</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID85</SimpleData>
+		<SimpleData name="nombre">Circuito de motocross</SimpleData>
+		<SimpleData name="tipo">Circuito de motor</SimpleData>
+		<SimpleData name="cod_ent">s33</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>93.4710000000196,4108020.2707</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID86</SimpleData>
+		<SimpleData name="nombre">Pabellón polideportivo</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>124.2709,4111756.6692</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID87</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>139.024900000019,4116223.3303</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID88</SimpleData>
+		<SimpleData name="nombre">Plaza de toros &quot;El Coliseo&quot;</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>122.4888,4120199.0269</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID89</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-67.3296,4149115.5585</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID9</SimpleData>
+		<SimpleData name="nombre">Pabellón municipal &quot;Miguel A. Gómez Campuzano&quot;</SimpleData>
+		<SimpleData name="tipo">Pabellón polideportivo</SimpleData>
+		<SimpleData name="cod_ent">s36</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>0.132299999997485,4140207.0477</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID90</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>53.5039000000106,4043151.048</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID91</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-42.6197999999858,4136155.2704</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID92</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>110.621700000018,4185035.4663</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID93</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>25.1060999999754,4066493.1546</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID94</SimpleData>
+		<SimpleData name="nombre">Centro de alto rendimiento &quot;Juan Carlos I&quot;</SimpleData>
+		<SimpleData name="tipo">Centro de alto rendimiento</SimpleData>
+		<SimpleData name="cod_ent">s31</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>104.716,4109079.379</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID95</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo &quot;Fuentezuelas&quot;</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-9.15490000002319,4182326.8354</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID96</SimpleData>
+		<SimpleData name="nombre">Campo hípico</SimpleData>
+		<SimpleData name="tipo">Centro ecuestre</SimpleData>
+		<SimpleData name="cod_ent">s32</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-164.088700000022,4180350.3751</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID97</SimpleData>
+		<SimpleData name="nombre">Plaza de toros</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>-155.4561,4180512.2361</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID98</SimpleData>
+		<SimpleData name="nombre">Complejo deportivo</SimpleData>
+		<SimpleData name="tipo">Espacios polideportivos</SimpleData>
+		<SimpleData name="cod_ent">s35</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>110.715299999982,4180626.6179</coordinates></Point></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<ExtendedData><SchemaData schemaUrl="#Feature_bee0b977_f27c_4b9d_bf41_a3cf972972b4">
+		<SimpleData name="gml_id">ID99</SimpleData>
+		<SimpleData name="nombre">Plaza de Santa Margarita</SimpleData>
+		<SimpleData name="tipo">Plaza de toros</SimpleData>
+		<SimpleData name="cod_ent">s38</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Point><coordinates>137.085,4217060.1399</coordinates></Point></MultiGeometry>
+  </Placemark>
+</Folder>
+</Document></kml>
