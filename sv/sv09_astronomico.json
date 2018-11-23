@@ -1,0 +1,6 @@
+{"type":"FeatureCollection", "features": [
+{"type":"Feature","geometry":{"type":"Point","coordinates":[212762.74635073752,4040326.2388337017]},"properties":{"NOMBRE":"Observatorio de la Armada","MUNICIPIO":"San Fernando","COD_MUN":"11031","PROVINCIA":"Cádiz","COD_ENT":"s15"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[465674.55039535894,4101907.7204809133]},"properties":{"NOMBRE":"Observatorio de Sierra Nevada","MUNICIPIO":"Dílar","COD_MUN":"18068","PROVINCIA":"Granada","COD_ENT":"s15"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[447180.81360963325,4116145.186163474]},"properties":{"NOMBRE":"Observatorio de Cartuja","MUNICIPIO":"Granada","COD_MUN":"18087","PROVINCIA":"Granada","COD_ENT":"s15"}},
+{"type":"Feature","geometry":{"type":"Point","coordinates":[539878.8919912555,4119638.911612118]},"properties":{"NOMBRE":"Observatorio de Calar Alto","MUNICIPIO":"Gergal","COD_MUN":"04050","PROVINCIA":"Almería","COD_ENT":"s15"}}
+]}
