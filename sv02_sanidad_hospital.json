@@ -199,4 +199,4 @@
 {"type":"Feature","geometry":{"type":"Point","coordinates":[278992.0081104856,4004133.1150927036]},"geometry_name":"wkb_geometry","properties":{"NOMBRE":"Hospital de la Cruz Roja. Algeciras","TIPO":"Hospitales","GESTION":"Privado Benéfico","CONCERTADO":"No","LOCALIDAD":"ALGECIRAS","COD_INE":"11004","MUNICIPIO":"Algeciras","PROVINCIA":"Cádiz","COD_ENT":"s02"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[205182.78765816812,4047699.5976182246]},"geometry_name":"wkb_geometry","properties":{"NOMBRE":"Hospital de la Misericordia (Hospital San Juan de Dios)","TIPO":"Hospitales","GESTION":"Privado Benéfico","CONCERTADO":"Si","LOCALIDAD":"CÁDIZ","COD_INE":"11012","MUNICIPIO":"Cádiz","PROVINCIA":"Cádiz","COD_ENT":"s02"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[236015.62641676358,4138821.7321313503]},"geometry_name":"wkb_geometry","properties":{"NOMBRE":"Hospital Quirón Sagrado Corazón","TIPO":"Hospitales","GESTION":"Privado","CONCERTADO":"No","LOCALIDAD":"SEVILLA","COD_INE":"41091","MUNICIPIO":"Sevilla","PROVINCIA":"Sevilla","COD_ENT":"s02"}}
-]}
+],"crs":{"type":"EPSG","properties":{"code":"25830"}}}
