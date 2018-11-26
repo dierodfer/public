@@ -1520,4 +1520,4 @@
 {"type":"Feature","geometry":null,"properties":{"NOMBRE":"Jerez Sur (Prox. Apertura)","TIPO":"Centros de Atención Primaria","DIRECCI":"AV PUERTA DEL SUR","LOCALIDAD":"JEREZ DE LA FRONTERA","COD_INE":"11020","MUNICIPIO":"JEREZ DE LA FRONTERA","PROVINCIA":"Cádiz","COD_ENT":"s01"}},
 {"type":"Feature","geometry":null,"properties":{"NOMBRE":"Isla Canela","TIPO":"Centros de Atención Primaria","DIRECCI":"CL GAVILANES DE LOS","LOCALIDAD":"ISLA CANELA","COD_INE":"21010","MUNICIPIO":"AYAMONTE","PROVINCIA":"Huelva","COD_ENT":"s01"}},
 {"type":"Feature","geometry":null,"properties":{"NOMBRE":"La Milagrosa (Prox. Apertura)","TIPO":"Centros de Atención Primaria","DIRECCI":"CL LAGO DE ENOL","LOCALIDAD":"","COD_INE":"11020","MUNICIPIO":"JEREZ DE LA FRONTERA","PROVINCIA":"Cádiz","COD_ENT":"s01"}}
-]}
+],"crs":{"type":"EPSG","properties":{"code":"25830"}}}
