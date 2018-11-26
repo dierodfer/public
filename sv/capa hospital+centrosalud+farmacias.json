@@ -1,4 +1,4 @@
-{"type":"FeatureCollection", "features": [
+{"type":"FeatureCollection", "totalFeatures":1718, "features": [
 {"type":"Feature","geometry":{"type":"Point","coordinates":[334000.3699221487,4048032.451413149]},"geometry_name":"wkb_geometry","properties":{"NOMBRE":"Ojen","TIPO":"Centros de Atención Primaria","DIRECCI":"CL Alberca 12","LOCALIDAD":"OJÉN","COD_INE":"29076","MUNICIPIO":"OJÉN","PROVINCIA":"Málaga","COD_ENT":"s01"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[461861.58643616835,4086728.5571738095]},"geometry_name":"wkb_geometry","properties":{"NOMBRE":"Cañar","TIPO":"Centros de Atención Primaria","DIRECCI":"CL Iglesia 0","LOCALIDAD":"CÁÑAR","COD_INE":"18040","MUNICIPIO":"CÁÑAR","PROVINCIA":"Granada","COD_ENT":"s01"}},
 {"type":"Feature","geometry":{"type":"Point","coordinates":[590893.9435807115,4095229.6151595376]},"geometry_name":"wkb_geometry","properties":{"NOMBRE":"Argamason","TIPO":"Centros de Atención Primaria","DIRECCI":"CL Argamason 0","LOCALIDAD":"EL ARGAMASÓN","COD_INE":"04032","MUNICIPIO":"CARBONERAS","PROVINCIA":"Almería","COD_ENT":"s01"}},
